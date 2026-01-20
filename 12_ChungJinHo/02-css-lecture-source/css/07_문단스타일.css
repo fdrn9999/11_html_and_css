@@ -1,0 +1,46 @@
+/* 글 방향 L -> R (왼쪽 정렬) */
+#p1 {
+    direction: ltr;
+    /* 기본 값 */
+}
+
+/* 글 방향 L <- R (오른쪽 정렬) */
+#p2 {
+    direction: rtl;
+}
+
+
+/* 텍스트 정렬 하기 */
+#p3 {
+    text-align: left;
+    /* 기본 값 */
+}
+
+#p4 {
+    text-align: right;
+
+}
+
+#p5 {
+    text-align: center;
+}
+
+#p6 {
+    text-align: justify;
+}
+
+#p7 {
+    line-height: normal;
+}
+
+#p8 {
+    line-height: 30px;
+}
+
+#p9 {
+    line-height: 2.5em;
+}
+
+#p10 {
+    line-height: 200%;
+}
